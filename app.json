@@ -1,3 +1,4 @@
+
 {
   "name": "AnyDLBot",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
@@ -16,7 +17,7 @@
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
   "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/nanacinema/nanacinemas",
+  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
