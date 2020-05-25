@@ -1,7 +1,6 @@
 class Translation(object):
     START_TEXT = """alive
 /help for help
-
 https://github.com/ananduks2016/AnyDLBot
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -78,3 +77,4 @@ Free users only 1 request per 1 month😡.
     G_DRIVE_SETUP_COMPLETE = "Logged In."
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     FED_UP_WITH_CRAP = "This bot is no longer leeching links for free users. @AnyDLBot is open source, and you can deploy your own telegram upload by clicking on the links, available in GitHub README. or, Better /upgrade the subscription to continue using this bot."
+© 2020 GitHub, Inc.
